@@ -18,7 +18,7 @@ const UserList = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-100 to-blue-100 py-10 px-4">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-3xl font-bold text-center text-blue-900 mb-8">
+        <h2 className="text-3xl font-bold text-center text-blue-900 mb-7">
           🌟 Our Awesome Users
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
