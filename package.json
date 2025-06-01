@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://zayan-dev.github.io/demo-app",
+  "homepage": "https://Zayan-dev.github.io/demo-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
