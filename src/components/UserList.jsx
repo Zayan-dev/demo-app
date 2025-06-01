@@ -41,7 +41,7 @@ const UserList = () => {
                 rel="noreferrer"
                 className="inline-block mt-4 text-sm text-blue-500 hover:underline"
               >
-                🌐 Visit Website
+                🌐 Visit the Website
               </a>
             </div>
           ))}
